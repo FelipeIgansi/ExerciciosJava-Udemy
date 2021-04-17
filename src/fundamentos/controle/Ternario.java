@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.controle;
 
 public class Ternario {
     public static void main(String[] args) {

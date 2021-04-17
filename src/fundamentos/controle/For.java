@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.controle;
 
 public class For {
     public static void main(String[] args) {

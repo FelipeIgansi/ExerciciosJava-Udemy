@@ -1,5 +1,4 @@
-
-package fundamentos;
+package fundamentos.controle;
 
 public class BreakRotulado{
     public static void main(String[] args) {

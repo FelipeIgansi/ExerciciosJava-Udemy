@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.controle;
 
 public class ContinueRotulado {
     public static void main(String[] args) {
